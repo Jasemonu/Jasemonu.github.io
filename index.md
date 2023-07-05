@@ -1,6 +1,6 @@
 # Welcome to My GitHub Landing Page
 
-![My Profile Picture](https://dev.to/dailydotdev/15-awesome-developer-home-workstations-5hk6)
+![My Profile Picture](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg)
 					## Hi i am Joseph Asemonu
 
 This is my landing page for my GitHub account. Here, you can find information about me, my projects, and more.
